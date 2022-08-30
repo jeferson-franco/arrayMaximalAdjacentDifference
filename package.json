@@ -1,0 +1,20 @@
+{
+  "name": "arraymaximaladjacentdifference",
+  "version": "1.0.0",
+  "description": "Given an array of integers, find the maximal absolute difference between any two of its adjacent elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/arrayMaximalAdjacentDifference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/arrayMaximalAdjacentDifference/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/arrayMaximalAdjacentDifference#readme"
+}
