@@ -15,3 +15,8 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test arrayMaximalAdjacentDifference
+
+// alternative solution
+// function solution(arr) {
+//     return Math.max(...arr.slice(1).map((x, i) => Math.abs(x - arr[i])));
+// }
